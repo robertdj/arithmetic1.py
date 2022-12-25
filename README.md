@@ -2,7 +2,7 @@ arithmetic1
 ===========
 
 <!-- badges: start -->
-[![Test](https://github.com/robertdj/arithmetic1.py/workflows/test/badge.svg)](https://github.com/robertdj/arithmetic1.py/actions)
+[![Test](https://github.com/robertdj/arithmetic1.py/actions/workflows/test.yaml/badge.svg)](https://github.com/robertdj/arithmetic1.py/actions)
 <!-- badges: end -->
 
 
@@ -18,14 +18,5 @@ To make an [editable installs](https://setuptools.pypa.io/en/latest/userguide/de
 
 ```python
 python install -e .
-```
-
-```python
-```
-
-```python
-```
-
-```python
 ```
 
