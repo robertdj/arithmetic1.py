@@ -8,7 +8,7 @@ setup(
     package_dir={"": "src"},
     packages=find_packages("src"),
     license='MIT',
-    tests_require=['pytest'],
+    tests_require=['pytest', "pytest-cov"],
     python_requires=">=3.7, <4"
 )
 
