@@ -33,6 +33,3 @@ jobs:
       - name: Run tests and report coverage
         run: pytest --cov
 
-      # - name: Run doctests
-      #   run: python tests/docs/run_doc_examples.py
-
